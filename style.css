@@ -130,7 +130,7 @@ nav ul {
 }
 
 .page1section {
-  background-image: url(/assets/img/hero.png);
+  background-image: url(assets/img/hero.png);
   background-size: cover;
   min-height: 87vh;
   margin-top: 128px;
@@ -231,7 +231,7 @@ nav ul {
 /*sideskift 2nd section--------------------------------------*/
 
 .page2section {
-  background-image: url(/assets/img/landingpage2-1000.png);
+  background-image: url(assets/img/landingpage2-1000.png);
   background-size: cover;
   display: flex;
   min-height: 100vh;
@@ -303,7 +303,7 @@ nav ul {
 /*sideskift 3rd section--------------------------------------*/
 
 .page3section {
-  background-image: url(/assets/img/landingpage3smorrebrodv3.png);
+  background-image: url(assets/img/landingpage3smorrebrodv3.png);
   background-size: cover;
   min-height: 100vh;
   display: flex;
